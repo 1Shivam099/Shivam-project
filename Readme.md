@@ -8,6 +8,8 @@ The **Learn-to-Earn Streaming Platform** is a decentralized platform designed fo
 
 ## Contract Address
 **Contract Address**: 0x0A8618CC04D7bec09D43e45ff64C4F7c5Cc1E681
+![image](https://github.com/user-attachments/assets/9d5b8f62-16f6-4c00-8ce3-e3edd01d2245)
+
 
 ## Project Vision
 The **Learn-to-Earn** platform envisions a new era of collaborative storytelling and decentralized content creation, where creators can earn rewards for contributing chapters to stories. By leveraging the power of NFTs, the platform ensures true ownership of the digital content, enabling a vibrant marketplace for story chapters. The goal is to build a decentralized ecosystem where authors, readers, and collectors can participate in collaborative content creation and ownership.
